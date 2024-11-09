@@ -1,0 +1,25 @@
+# Folder structure
+https://minecraft.wiki/w/Data_pack#Folder_structure
+
+# Function docs
+https://minecraft.wiki/w/Function_(Java_Edition)
+
+# Function tags
+https://minecraft.wiki/w/Tag#Function_tags
+
+# Schedule
+https://minecraft.wiki/w/Commands/schedule
+
+# Fancy text
+https://www.namecheap.com/visual/font-generator/fancy/
+https://allfancytext.com/
+
+# Misc
+https://www.minecraftforum.net/forums/minecraft-java-edition/redstone-discussion-and/2917049-datapacks-making-commands-functions-run-every-tick#c5
+https://stackoverflow.com/questions/78639964/load-mcfunction-does-not-get-call-in-minecraft-1-21
+https://www.reddit.com/r/MinecraftCommands/comments/1dcbjc6/how_would_i_add_subtitles_above_the_hotbar/
+https://chatgpt.com/c/672fc24b-bedc-8010-b23d-a736311df8ce
+
+# Title command
+https://minecraft.wiki/w/Commands/title
+https://www.minecraftforum.net/forums/minecraft-java-edition/creative-mode/2727501-need-help-with-title-command
