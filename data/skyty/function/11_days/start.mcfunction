@@ -5,10 +5,10 @@
 # Disable sleeping
 gamerule playersSleepingPercentage 101
 
-# Run right now
-schedule function skyty:11_days/day/01 1t
+# First day starts right now
+function skyty:11_days/day/01
 
-# Run after a number of days
+# Each day after
 schedule function skyty:11_days/day/02 1d
 schedule function skyty:11_days/day/03 2d
 schedule function skyty:11_days/day/04 3d
